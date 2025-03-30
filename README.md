@@ -173,6 +173,9 @@ def get_min_distance(codewords: list) -> int:
 Если расстояние равно 1, сразу возвращает его (оптимизация).
 ```
 
+![image](https://github.com/user-attachments/assets/319446f5-7c99-4282-b4e2-1c1031fd9799)
+
+
 ---
 
 def analyze_code(filename: str):
@@ -228,7 +231,10 @@ def analyze_code(filename: str):
 Количество кодовых слов,
 
 Минимальное расстояние.
+
 ```
+![image](https://github.com/user-attachments/assets/3b126aef-4418-4704-8787-d19753be7dd2)
+
 4. Возвращает результат в виде словаря.
 
    ---
